@@ -1,0 +1,6 @@
+name: EarthquakeMC
+version: '${version}'
+main: dev.earthquakemc.EarthquakePlugin
+api-version: '26.3'
+description: Compatibility layer for Horizon (and other Java) clients on Paper, Spigot and forks.
+softdepend: [ViaVersion, ViaBackwards]
